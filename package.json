@@ -1,0 +1,8 @@
+{
+  "name": "your_menu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Bill1907/your_menu.git",
+  "author": "Bill1907 <a31829660@gamil.com>",
+  "license": "MIT"
+}
