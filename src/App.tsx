@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Layout from './layouts/Layout';
-import RadioComponent from './components/input/RadioComponent';
+import LocationInputCard from './components/cards/LocationInputCard';
 
 type Location = {
   latitude: number;
@@ -36,7 +36,7 @@ export default function App() {
           <span>값이 없습니당</span>
         </div>
       )}
-      <RadioComponent />
+      <LocationInputCard />
     </Layout>
   );
 }
